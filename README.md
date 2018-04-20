@@ -97,6 +97,22 @@
  process again 
  
  4
+ Variables
+ number
+ counter 
+ degits
+ 
+ Initialize 
+ desits=n
+
+ 
+ Process 
+ check number of degits 
+ If(degits=n)
+ n=2 to n
+ 
+ 
+ 
  
  
 
