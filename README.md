@@ -99,8 +99,8 @@
  4
  Variables
  number
- counter 
  degits
+ sum
  
  Initialize 
  desits=n
@@ -110,6 +110,15 @@
  check number of degits 
  If(degits=n)
  n=2 to n
+ 
+ If(1 is in degits)
+ Yes - count degits 
+ No  - print "desimal is 0"
+ 
+ add numbers up
+ print "sum"
+ 
+ 
  
  
  
