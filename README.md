@@ -50,7 +50,54 @@
  2
  Variables 
  number 
- devisor 
+ devisorII
+ devisorIII
+ devisorIV
+ devisorV
+ devisorVI
+ remainder 
+ 
+ Initialize 
+ number=7
+ devisorII=2
+ devisorIII=3
+ devisorIV=4
+ devisorV=5
+ devisorVI=6
+ 
+ Process
+ number%2
+ If (remainder=1)
+ Yes - go to next step 
+ No  - number+=7
+ process again 
+ 
+ number%3
+ If(remainder=1)
+ Yes - go to next step
+ No  - number+=7
+ process again 
+ 
+ number%4
+ If(remainder=1)
+ Yes - go to next step
+ No  - number+=7
+ process again 
+ 
+ number%5
+ If(remainder=1)
+ Yes - go to next step
+ No  - number+=7
+ process again 
+ 
+ number%6
+ If(remiander=1)
+ Yes - print "This number is the smallest coefficient of 7 "
+ No  - number+=7
+ process again 
+ 
+ 4
+ 
  
 
  
