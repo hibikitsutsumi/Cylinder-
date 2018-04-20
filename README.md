@@ -116,7 +116,7 @@
  No  - print "desimal is 0"
  
  add numbers up
- print "sum"
+ print sum
  
  
  
