@@ -29,23 +29,25 @@
  Variables 
  integer
  positive integer 
- negative integer
  number 
  
- Initialize 
- integer=a
- positive integer =b
- negative integer =c
- number=0
+ Initialize
+ x=positive integer1
+ y=positive integer2
+ z=positive integer3
  
  Process 
- If (number=a)
- Yes - go to next step 
- No  - Print "It's not integer" 
+ If (number=integer)
+ go to next step 
+
+ If(number=x)
+ print x in the last
  
- If(number=b)
- Yes print "It's positive integer" number+=1 and process again 
- No  print "It's negative integer" number-=1 and process again
+ If(number=y)
+ print y in the middele 
+ 
+ If(number=z)
+ print in first
  
  2
  Variables 
@@ -103,20 +105,26 @@
  sum
  
  Initialize 
- desits=n
+ n=degits 
+ 1=number
 
  
  Process 
  check number of degits 
  If(degits=n)
- n=2 to n
+ summlize number n times
  
- If(1 is in degits)
- Yes - count degits 
- No  - print "desimal is 0"
+ check 0 or 1
+ If(number=0) 
+ not add it up 
+ if(number=1)
+ check the location 
  
- add numbers up
- print sum
+ if (location=n)
+ 2*n 
+ 
+add numbers up  
+print sum
  
  
  
