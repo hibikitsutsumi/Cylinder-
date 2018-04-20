@@ -9,16 +9,18 @@
  Initialize
  height=h
  radius=r
- long side of a rectangle=a 
- π=π
+ long side of a rectangle=2pir
+ π=pi
+ area of rectangle=area a
+ area of circle=area b
  
  Process 
- h * a
- print area of a rectangle
+ h * 2pir
+ print area a
  
- r * r * π　* 2
- print area of circle 
+ r * r * pi　* 2
+ print area b
  
- area of a rectangle + area of circle 
+ area a + area b 
  print surface area 
  
